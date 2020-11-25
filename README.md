@@ -5,6 +5,7 @@ Realtime chat app with Socket.io
 npm install
 npm run dev
 
-Go to localhost:3000
+Live version available at: https://fortchat.herokuapp.com/
+Go to http://localhost:3000
 ```
 
